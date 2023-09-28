@@ -1,2 +1,2 @@
-# Dreammary0-Introductory_MySQL
+# Introductory_MySQL
 Вводный курс по базам данных
